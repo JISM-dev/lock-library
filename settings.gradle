@@ -1,0 +1,3 @@
+rootProject.name = 'lock-library'
+include 'lock-core'
+include 'lock-spring-boot-starter'
